@@ -20,8 +20,7 @@ News
 
 Sneak Peek
 ======
-**Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection**
-
+**Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection** TMM under review
 <table>
     <tr>
         <td ><center><img src="https://tcc-power.github.io/images/FRD-UVAD-1.png" width=500/></center></td>
@@ -31,7 +30,8 @@ Sneak Peek
 
 
 
-**LAT for Weakly Supervised Video Anomaly Detection**
+**LAT for Weakly Supervised Video Anomaly Detection** CVPR 2024
+submitted
 <table>
     <tr>
         <td ><center><img src="https://tcc-power.github.io/images/LAT-1.png" width=500/></center></td>
