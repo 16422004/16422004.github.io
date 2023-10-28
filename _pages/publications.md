@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Feature Synthesis for Few-Shot Object Detection**
-**Chenchen Tao**, Song Chen, Yi Chen, Xiaojie Cai, Chong Wang
-*BICA*, 2023
-[pdf](http://16422004.github.io/files/bica.pdf)
+**Feature Synthesis for Few-Shot Object Detection**<br />
+**Chenchen Tao**, Song Chen, Yi Chen, Xiaojie Cai, Chong Wang<br />
+*BICA*, 2023<br />
+[pdf](http://16422004.github.io/files/bica.pdf)<br />
 
 <div style="display: flex; align-items: center;">
   <div style="width:70%">
@@ -24,10 +24,10 @@ incorporates Pseudo Margin Evaluation loss to calculate instance uncertainty sco
   </div>
 </div>
 
-**Action Recognition with Non-Uniform Key Frame Selector**
-Haohe Li, Chong Wang, Shenghao Yu, **Chenchen Tao**
-*IPMV*, 2023
-[pdf](http://16422004.github.io/files/ipmv.pdf)
+**Action Recognition with Non-Uniform Key Frame Selector**<br />
+Haohe Li, Chong Wang, Shenghao Yu, **Chenchen Tao**<br />
+*IPMV*, 2023<br />
+[pdf](http://16422004.github.io/files/ipmv.pdf)<br />
 
 <div style="display: flex; align-items: center;">
   <div style="width:70%">
@@ -38,10 +38,10 @@ Haohe Li, Chong Wang, Shenghao Yu, **Chenchen Tao**
   </div>
 </div>
 
-**Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection**
-Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu
-*ICASSP*, 2023
-[pdf](http://16422004.github.io/files/icassp.pdf)
+**Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection**<br />
+Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu<br />
+*ICASSP*, 2023<br />
+[pdf](http://16422004.github.io/files/icassp.pdf)<br />
 
 <div style="display: flex; align-items: center;">
   <div style="width：70%">
