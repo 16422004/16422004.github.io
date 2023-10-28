@@ -20,12 +20,12 @@ News
 
 Sneak Peek
 ======
-Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection
+**Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection**
 
 ![Qualitative Result on two benchmarks (ShanghaiTech and UCF-Crime)](/images/FRD-UVAD-1.png)
 ![Comparation with other SOTA methods](/images/FRD-UVAD-2.png)
------
-LAT for Weakly Supervised Video Anomaly Detection
+
+**LAT for Weakly Supervised Video Anomaly Detection**
 
 ![Qualitative Result on two benchmarks (XD-Violence and UCF-Crime)](/images/LAT-1.png)
 ![Comparation with other SOTA methods](/images/LAT-2.png)
