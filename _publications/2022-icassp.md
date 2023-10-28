@@ -2,7 +2,7 @@
 title: "Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection"
 collection: publications
 date: 2022-10-01
-venue: 'ICASSP'
+venue: 'ICASSP 2022'
 paperurl: 'http://academicpages.github.io/files/icassp.pdf'
 Recommended citation: Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu
 ---
