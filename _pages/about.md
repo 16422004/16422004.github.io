@@ -23,7 +23,10 @@ Sneak Peek
 **Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection**
 
 ![Qualitative Result on two benchmarks (ShanghaiTech and UCF-Crime)](/images/FRD-UVAD-1.png)![Comparation with other SOTA methods](/images/FRD-UVAD-2.PNG)
-
+<center class="half">
+<img src="https://16422004.github.io/images/FRD-UVAD-1.png" width=00/>
+<img src="https://16422004.github.io/images/FRD-UVAD-2.png" width=200/>
+</center>
 
 
 
