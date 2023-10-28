@@ -22,15 +22,19 @@ Sneak Peek
 ======
 **Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection**
 
-![Qualitative Result on two benchmarks (ShanghaiTech and UCF-Crime)](/images/FRD-UVAD-1.png)![Comparation with other SOTA methods](/images/FRD-UVAD-2.PNG)
-<center class="half">
-<img src="https://16422004.github.io/images/FRD-UVAD-1.png" width=00/>
-<img src="https://16422004.github.io/images/FRD-UVAD-2.png" width=200/>
-</center>
+<table>
+    <tr>
+        <td ><center><img src="https://16422004.github.io/images/FRD-UVAD-1.png" width=500/></center></td>
+        <td ><center><img src="https://16422004.github.io/images/FRD-UVAD-2.PNG" width=500/></center></td>
+    </tr>
+</table>
 
 
 
 **LAT for Weakly Supervised Video Anomaly Detection**
-
-![Qualitative Result on two benchmarks (XD-Violence and UCF-Crime)](/images/LAT-1.png)![Comparation with other SOTA methods](/images/LAT-2.png)
-
+<table>
+    <tr>
+        <td ><center><img src="https://16422004.github.io/images/LAT-1.png" width=500/></center></td>
+        <td ><center><img src="https://16422004.github.io/images/LAT-2.png" width=500/></center></td>
+    </tr>
+</table>
