@@ -1,6 +1,5 @@
 ---
 <img align="right" src="https://16422004.github.io/images/icassp.png"/>
-
 title: "Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection"
 Recommended citation: Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu
 collection: publications
