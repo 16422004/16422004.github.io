@@ -1,9 +1,9 @@
-===
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-===
+---
 **Feature Synthesis for Few-Shot Object Detection**  [pdf](http://16422004.github.io/files/bica.pdf)<br /><br />
 ---
 <table>
