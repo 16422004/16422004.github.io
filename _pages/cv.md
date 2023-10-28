@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![](https://images/tcc_CV_00.PNG)
+![part1](https://chenchentao.github.io/images/tcc_CV_00.PNG)
 
-![](https://images/tcc_CV_01.PNG)
+![part2](https://chenchentao.github.io/images/tcc_CV_01.PNG)
