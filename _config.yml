@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chenchen Tao"
-  avatar           : "image/tcc.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.png"
+  bio              : "I am currently a postgraduate student majoring in CS"
+  location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
