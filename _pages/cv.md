@@ -14,6 +14,12 @@ Education
 * M.S. in Zhejiang, Ningbo University, 2021-present
 * B.S. in Liaoning, Dalian University, 2016-2020
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -34,12 +40,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
   
 Awards
