@@ -5,15 +5,14 @@ permalink: /publications/
 author_profile: true
 ===
 
-**Feature Synthesis for Few-Shot Object Detection**<br />
+<div style="display: flex; align-items: center;">
+  <div style="width:70%">
+    **Feature Synthesis for Few-Shot Object Detection**<br />
 ---
 **Chenchen Tao**, Song Chen, Yi Chen, Xiaojie Cai, Chong Wang<br />
 *BICA*, 2023<br />
 [pdf](http://16422004.github.io/files/bica.pdf)<br />
-
-<div style="display: flex; align-items: center;">
-  <div style="width:70%">
-    By combining semantic embeddings with real visual features, the generator
+By combining semantic embeddings with real visual features, the generator
 is trained to enhance the correlation between synthetic features and their
 corresponding categories. Class prototypes are computed based on real
 features and contrastive loss guides the constraint of synthetic feature
