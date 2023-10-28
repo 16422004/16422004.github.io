@@ -24,8 +24,8 @@ Sneak Peek
 
 <table>
     <tr>
-        <td ><center><img src="https://16422004.github.io/images/FRD-UVAD-1.png" width=500/></center></td>
-        <td ><center><img src="https://16422004.github.io/images/FRD-UVAD-2.PNG" width=500/></center></td>
+        <td ><center><img src="https://chenchentao.github.io/images/FRD-UVAD-1.png" width=500/></center></td>
+        <td ><center><img src="https://chenchentao.github.io/images/FRD-UVAD-2.PNG" width=500/></center></td>
     </tr>
 </table>
 
@@ -34,7 +34,7 @@ Sneak Peek
 **LAT for Weakly Supervised Video Anomaly Detection**
 <table>
     <tr>
-        <td ><center><img src="https://16422004.github.io/images/LAT-1.png" width=500/></center></td>
-        <td ><center><img src="https://16422004.github.io/images/LAT-2.png" width=500/></center></td>
+        <td ><center><img src="https://chenchentao.github.io/images/LAT-1.png" width=500/></center></td>
+        <td ><center><img src="https://chenchentao.github.io/images/LAT-2.png" width=500/></center></td>
     </tr>
 </table>
