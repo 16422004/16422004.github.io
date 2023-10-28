@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Feature Synthesis for Few-Shot Object Detection** [pdf](http://chenchentao1024.github.io/files/bica.pdf)
+**Feature Synthesis for Few-Shot Object Detection** [pdf](http://tcc-power.github.io/files/bica.pdf)
 ---
 **Chenchen Tao**, Song Chen, Yi Chen, Xiaojie Cai, Chong Wang<br/>
 *BICA*, 2023
@@ -20,11 +20,11 @@ distribution, improving model performance. Additionally, the algorithm
 incorporates Pseudo Margin Evaluation loss to calculate instance uncertainty scores and increase discrimination power. E
   </div>
   <div style="width:50%">
-    <img src="https://chenchentao1024.github.io/images/bica.PNG" alt="bica">
+    <img src="https://tcc-power.github.io/images/bica.PNG" alt="bica">
   </div>
 </div>
 
-**Action Recognition with Non-Uniform Key Frame Selector** [pdf](http://chenchentao1024.github.io/files/ipmv.pdf)
+**Action Recognition with Non-Uniform Key Frame Selector** [pdf](http://tcc-power.github.io/files/ipmv.pdf)
 ---
 Haohe Li, Chong Wang, Shenghao Yu, **Chenchen Tao**<br/>
 *IPMV*, 2023
@@ -38,14 +38,14 @@ have richer semantic information, which has positive impact on the
 network training.
   </div>
   <div style="width:50%">
-    <img src="https://chenchentao1024.github.io/images/ipmv.PNG" alt="IPMV">
+    <img src="https://tcc-power.github.io/images/ipmv.PNG" alt="IPMV">
   </div>
 </div>
 
 
-**Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection** [pdf](http://chenchentao1024.github.io/files/icassp.pdf)<br/>
+**Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection** [pdf](http://tcc-power.github.io/files/icassp.pdf)<br/>
 ---
-Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu<br/>
+Weijie Liu, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, Jiafei Wu<br/>
 *ICASSP*, 2023
 
 <div style="display: flex; align-items: left;">
@@ -57,8 +57,21 @@ Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu<
     pseudo-labels brought by those new novel instances.
   </div>
   <div style="width:50%">
-    <img src="https://chenchentao1024.github.io/images/icassp.PNG" alt="ICASSP">
+    <img src="https://tcc-power.github.io/images/icassp.PNG" alt="ICASSP">
   </div>
 </div>
+
+
+**Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection,** <br/>
+---
+**Chenchen Tao**, Chong Wang, Sunqi Lin, Suhang Cai, Di Li, Jiangbo Qian<br/>
+*TMM under review*, 2023
+
+
+**Learn Anomaly from Prompt for Weakly Supervised Video Anomaly Detection,** <br/>
+---
+**Chenchen Tao**, Chong Wang, Xiaohao Peng, Jiangbo Qian<br/>
+*submitted to CVPR 2024*
+
 
 
