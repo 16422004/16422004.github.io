@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Feature Synthesis for Few-Shot Object Detection** [pdf](http://16422004.github.io/files/bica.pdf)
+**Feature Synthesis for Few-Shot Object Detection** [pdf](http://chenchentao.github.io/files/bica.pdf)
 ---
 **Chenchen Tao**, Song Chen, Yi Chen, Xiaojie Cai, Chong Wang<br/>
 *BICA*, 2023
@@ -20,11 +20,11 @@ distribution, improving model performance. Additionally, the algorithm
 incorporates Pseudo Margin Evaluation loss to calculate instance uncertainty scores and increase discrimination power. E
   </div>
   <div style="width:50%">
-    <img src="https://16422004.github.io/images/bica.PNG" alt="bica">
+    <img src="https://chenchentao.github.io/images/bica.PNG" alt="bica">
   </div>
 </div>
 
-**Action Recognition with Non-Uniform Key Frame Selector** [pdf](http://16422004.github.io/files/ipmv.pdf)
+**Action Recognition with Non-Uniform Key Frame Selector** [pdf](http://chenchentao.github.io/files/ipmv.pdf)
 ---
 Haohe Li, Chong Wang, Shenghao Yu, **Chenchen Tao**<br/>
 *IPMV*, 2023
@@ -38,12 +38,12 @@ have richer semantic information, which has positive impact on the
 network training.
   </div>
   <div style="width:50%">
-    <img src="https://16422004.github.io/images/ipmv.PNG" alt="IPMV">
+    <img src="https://chenchentao.github.io/images/ipmv.PNG" alt="IPMV">
   </div>
 </div>
 
 
-**Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection** [pdf](http://16422004.github.io/files/icassp.pdf)<br/>
+**Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection** [pdf](http://chenchentao.github.io/files/icassp.pdf)<br/>
 ---
 Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu<br/>
 *ICASSP*, 2023
@@ -57,7 +57,7 @@ Liu, Weijie, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, and Jiafei Wu<
     pseudo-labels brought by those new novel instances.
   </div>
   <div style="width:50%">
-    <img src="https://16422004.github.io/images/icassp.PNG" alt="ICASSP">
+    <img src="https://chenchentao.github.io/images/icassp.PNG" alt="ICASSP">
   </div>
 </div>
 
