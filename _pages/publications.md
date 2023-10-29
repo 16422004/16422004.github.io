@@ -62,13 +62,13 @@ Weijie Liu, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, Jiafei Wu<br/>
 </div>
 
 
-**Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection,** <br/>
+**Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection** <br/>
 ---
 **Chenchen Tao**, Chong Wang, Sunqi Lin, Suhang Cai, Di Li, Jiangbo Qian<br/>
 *TMM under review*, 2023
 
 
-**Learn Anomaly from Prompt for Weakly Supervised Video Anomaly Detection,** <br/>
+**Learn Anomaly from Prompt for Weakly Supervised Video Anomaly Detection** <br/>
 ---
 **Chenchen Tao**, Chong Wang, Xiaohao Peng, Jiangbo Qian<br/>
 *submitted to CVPR 2024*
