@@ -14,9 +14,12 @@ My research interests are generally in machine learning, video understanding, an
 
 News
 ======
+* [12/2023] One paper accepted by ICASSP 2024
+* [11/2023] One paper is under review by CVPR 2024
 * [10/2023] One paper is under review by IEEE Transactions on Multimedia (TMM)
 * [09/2023] One paper accepted by BICA*AI 2024
 * [01/2023] One paper accepted by IMPV 2023
+* [12/2021] One paper accepted by ICASSP 2022
 
 Sneak Peek
 ======
@@ -30,7 +33,7 @@ Sneak Peek
 
 
 
-**LAT for Weakly Supervised Video Anomaly Detection** CVPR 2024
+**Learn Suspected Anomalies from Event Prompts for Video Anomaly Detection** CVPR 2024
 submitted
 <table>
     <tr>
