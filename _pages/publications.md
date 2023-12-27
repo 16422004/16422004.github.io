@@ -5,6 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Distill Vision Transformers to CNNS via Teacher Collaboration** [pdf](http://tcc-power.github.io/files/icassp24.pdf)
+---
+Sunqi Lin, Chong Wang, Yujie Zheng, **Chenchen Tao**, Xinmiao Dai, Yuqi Li<br/>
+*ICASSP*, 2024
+
+<div style="display: flex; align-items: center;">
+  <div style="width:50%">
+    Conventional knowledge distillation methods have proven ineffective due to substantial architectural disparities in representation and logits between them, a novel cross-architecture knowledge distillation scheme based on teacher collaboration is proposed to alleviate the architecture gap. 
+    Two different teachers, i.e. one ViT and one CNN, are utilized to simultaneously distill the student by feature reaggregation and logit correction.
+  </div>
+  <div style="width:50%">
+    <img src="https://tcc-power.github.io/images/icassp24.png" alt="icassp24">
+  </div>
+</div>
+
 **Feature Synthesis for Few-Shot Object Detection** [pdf](http://tcc-power.github.io/files/bica.pdf)
 ---
 **Chenchen Tao**, Song Chen, Yi Chen, Xiaojie Cai, Chong Wang<br/>
