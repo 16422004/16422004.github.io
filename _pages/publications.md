@@ -61,7 +61,7 @@ network training.
 **Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection** [pdf](http://tcc-power.github.io/files/icassp.pdf)<br/>
 ---
 Weijie Liu, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, Jiafei Wu<br/>
-*ICASSP*, 2023
+*ICASSP*, 2022
 
 <div style="display: flex; align-items: left;">
   <div style="width:50%">
@@ -86,7 +86,7 @@ Weijie Liu, Chong Wang, Shenghao Yu, **Chenchen Tao**, Jun Wang, Jiafei Wu<br/>
 **Learn Anomaly from Prompt for Weakly Supervised Video Anomaly Detection** <br/>
 ---
 **Chenchen Tao**, Chong Wang, Xiaohao Peng, Jiangbo Qian<br/>
-*submitted to CVPR 2024*
+*under the review of CVPR 2024*
 
 
 
