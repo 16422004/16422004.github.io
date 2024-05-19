@@ -14,7 +14,7 @@ My research interests are generally in machine learning, video understanding, an
 
 News
 ======
-* [05/2023] Our paper 'Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection' accepted by IEEE Transactions on Multimedia (TMM)
+* [05/2024] Our paper 'Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection' is accepted by IEEE Transactions on Multimedia (TMM)
 * [12/2023] One paper accepted by ICASSP 2024
 * [11/2023] One paper is under review by CVPR 2024
 * [10/2023] One paper is under review by IEEE Transactions on Multimedia (TMM)
